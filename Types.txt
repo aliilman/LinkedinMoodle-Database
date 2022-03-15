@@ -1,0 +1,26 @@
+account_type
+------------
+0 USER
+1 COMPANY
+
+status_type
+-----------
+NULL BLANK
+0 VIDEO
+1 EVENT
+2 IMAGE
+
+user_type
+---------
+0 NORMAL
+1 STUDENT
+2 INSTRUCTOR
+
+
+like_type
+---------
+0 NORMAL
+1 KALPLİ
+2 GÜLÜCÜK
+3 ÜZGÜN
+4 KIZGIN
